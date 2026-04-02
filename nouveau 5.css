@@ -1,0 +1,20 @@
+h1{
+	font-size: 70px;
+	margin-left: 33px;
+	color: gray;
+}
+
+h2{
+	font-size: 85px;
+	color:black;
+}
+
+a{
+	font-weight: 800;
+	text-decoration: none;
+}
+
+body {
+     background-image: url("gif_panier.jfif");
+	 background-size: 1750px;
+}

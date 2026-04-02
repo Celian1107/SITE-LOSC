@@ -1,0 +1,22 @@
+p {
+  font-family: 'Oswald', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 80px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-left:430px;
+}
+
+h3{
+	margin-left: 860px;
+}
+
+body {
+     background-image: url("gris.avif");
+	 background-size: 1900px;
+}
+
+a:link {
+  text-decoration: none;
+}

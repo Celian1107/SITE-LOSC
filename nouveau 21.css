@@ -1,0 +1,13 @@
+h1{
+	margin-left: 550px;
+	font-size: 75px;
+	color: #EAEAEA;
+}
+
+body{
+	background-image: url("fond calendrier.png");
+	color: #EAEAEA;
+	background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

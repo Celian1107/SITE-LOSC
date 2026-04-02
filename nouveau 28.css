@@ -1,0 +1,31 @@
+h1 {
+font-family: 'Cormorant Garamond', serif;
+font-style: italic;
+font-weight: 700;
+}
+body{
+font-weight: bold;
+}
+
+h2{
+font-family: 'Cormorant Garamond', serif;
+font-style: italic;
+font-weight: 700;
+font-weight: bold;
+font-size: 150px;
+}
+
+body{
+	background-image: url("palmares.jpg");
+	color: black;
+	background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h3{
+font-family: 'Cormorant Garamond', serif;
+font-style: italic;
+font-weight: 700;
+font-weight: bold;
+}
